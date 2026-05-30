@@ -120,7 +120,7 @@ Salin URL yang diberikan. Jika terjadi kesalahan, coba deploy ulang karena terka
 
 ## Penghargaan Desain 🎨
 
-Proyek ini merupakan redesain dari undangan pernikahan milik [Dewanakl](https://github.com/dewanakl). Tata letak dan desain telah disesuaikan untuk meningkatkan fungsi dan estetika.
+Proyek ini merupakan redesain dari undangan pernikahan milik [Lexaiko](https://github.com/lexaiko). Tata letak dan desain telah disesuaikan untuk meningkatkan fungsi dan estetika.
 
 ---
 
