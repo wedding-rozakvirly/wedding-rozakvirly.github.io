@@ -17,7 +17,7 @@ export const data = {
             image: './src/assets/images/cewe.png'
         },
 
-        couple: './src/assets/images/couple.png'
+        couple: './src/assets/images/couple.webp'
     },
 
     time: {
